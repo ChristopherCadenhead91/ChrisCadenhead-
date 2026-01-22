@@ -29,4 +29,6 @@ I have develop a pssion for cyber secruity, and I am now eager to transition int
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- detection labs 
+- detection labs
+-  SOC Automation Project
+-  Test Project
